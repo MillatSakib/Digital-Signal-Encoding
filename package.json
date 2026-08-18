@@ -1,0 +1,22 @@
+{
+  "name": "digital-signal-encoding-simulator",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Interactive Digital Signal Encoding Simulator — NRZ-L, NRZ-I, Manchester, Differential Manchester, AMI visualization",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
